@@ -1,3 +1,28 @@
+### Integration with News API Using Laravel
+
+### `Display Articles`
+
+<img src="public/display_articles_1.png"> 
+
+### `Pagination`
+
+<img src="public/pagination2.png"> 
+
+### `Search`
+
+<img src="public/search3.png"> 
+
+### `Sorting`
+
+<img src="public/sorting4.png"> 
+
+### `Customizable Columns`
+
+
+<img src="public/customizable_column5.png"> 
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
